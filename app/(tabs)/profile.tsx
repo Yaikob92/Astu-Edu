@@ -4,7 +4,7 @@ import { Text, View } from "react-native";
 const profile = () => {
   return (
     <View>
-      <Text>profile</Text>
+      <Text>Enter to get Closer to Bosedu and explore more</Text>
     </View>
   );
 };
