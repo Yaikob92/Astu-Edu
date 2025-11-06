@@ -22,7 +22,7 @@ export default function Onboarding() {
     if (currentIndex < onboardingData.length - 1) {
       setCurrentIndex(currentIndex + 1);
     } else {
-      router.replace("/(tabs)");
+      router.replace("/(auth)");
     }
   };
 

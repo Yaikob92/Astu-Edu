@@ -10,7 +10,7 @@ export default function SafeScreen({ children }) {
   );
 }
 
-const styles = StyleSheet({
+const styles = StyleSheet.create({
   container: {
     flex: 1,
   },

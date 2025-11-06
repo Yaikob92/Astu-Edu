@@ -17,6 +17,10 @@
     "app/(auth)/forgotPassword.jsx",
     "app/onboarding.jsx",
     "app/index.jsx",
-    "app/_layout.jsx"
+    "app/(tabs)/profile.jsx",
+    "app/(tabs)/store.jsx",
+    "app/(tabs)/index.jsx",
+    "app/(tabs)/Forum.jsx",
+    "app/(tabs)/Events.jsx"
   ]
 }

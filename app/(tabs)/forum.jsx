@@ -1,12 +1,12 @@
 import React from "react";
 import { Text, View } from "react-native";
 
-const forum = () => {
+const Forum = () => {
   return (
     <View>
-      <Text>forum</Text>
+      <Text>Forum</Text>
     </View>
   );
 };
 
-export default forum;
+export default Forum;
